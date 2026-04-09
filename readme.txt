@@ -2,7 +2,7 @@
 Contributors: billplz, yiedpozi
 Tags: fluentcart, ecommerce, billplz, payment
 Requires at least: 4.6
-Tested up to: 6.9.4
+Tested up to: 6.9
 Stable tag: 1.0.0
 Requires PHP: 7.0
 License: GPLv3
