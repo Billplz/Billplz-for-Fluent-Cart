@@ -277,7 +277,7 @@ class Billplz_FluentCart_Handler
      */
     public function handleIpn(): void
     {
-        $billId = $_POST['id'] ?? $_GET['billplz']['id'] ?? null;
+        $billId = sanitize_text_field( $_POST['id'] ?? $_GET['billplz']['id'] ?? '' );
 
         if ( empty( $billId ) ) {
             throw new Exception( 'Missing bill ID' );
