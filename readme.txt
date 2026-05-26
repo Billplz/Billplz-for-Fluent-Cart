@@ -22,6 +22,12 @@ This plugin will connect to [Billplz API](https://www.billplz.com/api) to accept
 
 You may use our sandbox environment for testing: [Billplz Sandbox](https://www.billplz-sandbox.com/)
 
+= External Services =
+
+This plugin connects to the [Billplz API](https://www.billplz.com/api) to process payments.
+
+See the [Billplz Terms of Service](https://main.billplz.com/terms).
+
 == Installation ==
 
 = Minimum Requirements =
