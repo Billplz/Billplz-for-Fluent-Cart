@@ -2,7 +2,7 @@
 Contributors: billplz, yiedpozi
 Tags: fluentcart, ecommerce, billplz, payment
 Requires at least: 4.6
-Tested up to: 6.9
+Tested up to: 7.0
 Stable tag: 1.0.0
 Requires PHP: 7.0
 License: GPLv3
@@ -21,6 +21,12 @@ This plugin will connect to [Billplz API](https://www.billplz.com/api) to accept
 [Sign up as a merchant](https://www.billplz.com/) to get started.
 
 You may use our sandbox environment for testing: [Billplz Sandbox](https://www.billplz-sandbox.com/)
+
+= External Services =
+
+This plugin connects to the [Billplz API](https://www.billplz.com/api) to process payments.
+
+See the [Billplz Terms of Service](https://main.billplz.com/terms).
 
 == Installation ==
 
