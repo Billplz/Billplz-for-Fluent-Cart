@@ -1,5 +1,4 @@
 === Billplz for FluentCart ===
-Contributors: billplz, yiedpozi
 Tags: fluentcart, ecommerce, billplz, payment
 Requires at least: 4.6
 Tested up to: 7.0
